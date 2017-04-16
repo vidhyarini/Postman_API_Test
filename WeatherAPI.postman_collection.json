@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "WeatherAPI",
+		"_postman_id": "127d248b-661b-9474-a82b-063a41c8c9a6",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetWeather",
+			"request": {
+				"url": "http://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=25d331affea7d48d2189c641ddc43bb0",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
